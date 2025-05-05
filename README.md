@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">1- 🛍️ E-commerce Website : https://goat-store-brown.vercel.app/<br>2- 🌐 Web Dev Agency : https://adwave.agency/<br>3- 💻 Web Developer Portfolio : https://mohammed-el-amin-harroudj.vercel.app/</p>
+<p align="left">1- 🛍️ E-commerce Website : https://goat-store-dz.com/<br>2- 🌐 Web Dev Agency : https://adwave.agency/<br>3- 💻 Medical Students Platform : https://medexpertdz.com/<br>4- 💻 Car Location Website : https://sms-algerie.net/<br>5- 💻 Wedding Services Website : https://afrahoukom.com/<br>6- 💻 Coffee Website : https://cityone-algeria.com/<br>7- 💻 Toys Website : https://plastoys.dz/</p>
 
 ###
 
