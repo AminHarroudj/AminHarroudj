@@ -10,15 +10,15 @@
 
 ###
 
-<p align="left">🌐 Frontend: React, Tailwind CSS<br>🛠️ Backend: Node.js, Express<br>📦 Databases: MongoDB, MySQL<br>👨‍💻 My Portfolio : https://mohammed-el-amin-harroudj.vercel.app/</p>
+<p align="left">🌐 Frontend: React, Tailwind CSS<br>🛠️ Backend: Node.js, Express, Laravel<br>📦 Databases: MongoDB, MySQL, PostgreSQL<br>👨‍💻 My Portfolio : https://mohammed-el-amin-harroudj.vercel.app/</p>
 
 ###
 
-<h2 align="left">My Projects</h2>
+<h2 align="left">Some Projects</h2>
 
 ###
 
-<p align="left">1- 🛍️ E-commerce Website : https://goat-store-dz.com/<br>2- 🌐 Web Dev Agency : https://adwave.agency/<br>3- 💻 Medical Students Platform : https://medexpertdz.com/<br>4- 💻 Car Location Website : https://sms-algerie.net/<br>5- 💻 Wedding Services Website : https://afrahoukom.com/<br>6- 💻 Coffee Website : https://cityone-algeria.com/<br>7- 💻 Toys Website : https://plastoys.dz/</p>
+<p align="left">1- 🛍️ E-commerce Website : https://goat-store-dz.com/<br>2- 🌐 Digital Services Agency : https://ambyte-agency.vercel.app/<br>3- 💻 English Instutue Website : https://worldspeakclass.com/<br>4- 💻 Confectionery Company Website : https://eldjawharadz.com/<br>
 
 ###
 
