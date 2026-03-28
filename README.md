@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌐 Frontend: React, Tailwind CSS<br>🛠️ Backend: Node.js, Express, Laravel<br>📦 Databases: MongoDB, MySQL, PostgreSQL<br>👨‍💻 My Portfolio : https://mohammed-el-amin-harroudj.vercel.app/</p>
+<p align="left">🌐 Frontend: React, Tailwind CSS<br>🛠️ Backend: Node.js, Express, Laravel<br>📦 Databases: MongoDB, MySQL, PostgreSQL<br>👨‍💻 My Portfolio : https://amin.ambyte-agency.com/</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">1- 🛍️ E-commerce Website : https://goat-store-dz.com/<br>2- 🌐 Digital Services Agency : https://ambyte-agency.vercel.app/<br>3- 💻 English Instutue Website : https://worldspeakclass.com/<br>4- 💻 Confectionery Company Website : https://eldjawharadz.com/<br>
+<p align="left">1- 🛍️ E-commerce Website : https://goat-store-dz.com/<br>2- 🌐 Digital Services Agency : https://ambyte-agency.com/<br>3- 💻 English Instutue Website : https://worldspeakclass.com/<br>4- 💻 Confectionery Company Website : https://eldjawharadz.com/<br>
 
 ###
 
