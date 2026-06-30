@@ -68,31 +68,29 @@
 
 <h2 align="left">My Social Links</h2>
 
-###
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/harroudj-mohammed-el-amin-655315252/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:amin.harroudj.2002@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
-    <a href="https://www.instagram.com/amin.harroudj/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-  <a href="https://www.tiktok.com/@amin.harroudj" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tiktok/default.svg" width="52" height="40" alt="tiktok logo" />
-  </a>
-  <a href="https://www.youtube.com/@aminharroudj" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
-  </a>
+
+<a href="https://www.linkedin.com/in/harroudj-mohammed-el-amin-655315252/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+<a href="mailto:amin.harroudj.2002@outlook.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+
+<a href="https://www.instagram.com/amin.harroudj/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
+
+<a href="https://cdn.simpleicons.org/tiktok" target="_blank">
+</a>
+
+<a href="https://www.tiktok.com/@amin.harroudj" target="_blank">
+  <img src="https://cdn.simpleicons.org/tiktok" height="45" />
+</a>
+
+<a href="https://www.youtube.com/@aminharroudj" target="_blank">
+  <img src="https://cdn.simpleicons.org/youtube" height="45" />
+</a>
+
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AminHarroudj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AminHarroudj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
