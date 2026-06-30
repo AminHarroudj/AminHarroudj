@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌐 Frontend: React, Tailwind CSS<br>🛠️ Backend: Node.js, Express, Laravel<br>📦 Databases: MongoDB, MySQL, PostgreSQL<br>👨‍💻 My Portfolio : https://amin.ambyte-agency.com/</p>
+<p align="left">🌐 Frontend: React JS, Next JS, Tailwind CSS<br>🛠️ Backend: Node.js, Express, Laravel<br>📦 Databases: MongoDB, MySQL, PostgreSQL<br>👨‍💻 My Portfolio : https://amin.ambyte-agency.com/</p>
 
 ###
 
